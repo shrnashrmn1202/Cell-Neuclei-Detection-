@@ -30,5 +30,6 @@ Upon evaluating the model with test data, the model obtain the following test re
 - Test Accuracy: 96%
 
 Some predictions are also made with the model using some of the test data. The actual output masks and prediction masks are shown in figures below:
+
 ![image](https://user-images.githubusercontent.com/100325884/166876337-085666b7-7deb-4882-bb13-2de6b6cdde25.png)
 
